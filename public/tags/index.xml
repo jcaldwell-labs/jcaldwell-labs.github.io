@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on jcaldwell-labs</title>
+    <link>https://jcaldwell-labs.github.io/tags/</link>
+    <description>Recent content in Tags on jcaldwell-labs</description>
+    <generator>Hugo -- 0.146.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://jcaldwell-labs.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ai-Observability</title>
+      <link>https://jcaldwell-labs.github.io/tags/ai-observability/</link>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://jcaldwell-labs.github.io/tags/ai-observability/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Business</title>
+      <link>https://jcaldwell-labs.github.io/tags/business/</link>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://jcaldwell-labs.github.io/tags/business/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Infrastructure</title>
+      <link>https://jcaldwell-labs.github.io/tags/infrastructure/</link>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://jcaldwell-labs.github.io/tags/infrastructure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kubernetes</title>
+      <link>https://jcaldwell-labs.github.io/tags/kubernetes/</link>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://jcaldwell-labs.github.io/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Langfuse</title>
+      <link>https://jcaldwell-labs.github.io/tags/langfuse/</link>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://jcaldwell-labs.github.io/tags/langfuse/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linkerd</title>
+      <link>https://jcaldwell-labs.github.io/tags/linkerd/</link>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://jcaldwell-labs.github.io/tags/linkerd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Oracle-Cloud</title>
+      <link>https://jcaldwell-labs.github.io/tags/oracle-cloud/</link>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://jcaldwell-labs.github.io/tags/oracle-cloud/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vault</title>
+      <link>https://jcaldwell-labs.github.io/tags/vault/</link>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://jcaldwell-labs.github.io/tags/vault/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

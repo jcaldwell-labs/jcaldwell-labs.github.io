@@ -1,0 +1,62 @@
+baseURL = 'https://jcaldwell-labs.github.io/'
+languageCode = 'en-us'
+title = 'jcaldwell-labs'
+theme = 'PaperMod'
+enableRobotsTXT = true
+enableGitInfo = false
+
+[params]
+  description = "Technical documentation and articles from jcaldwell-labs"
+  author = "jcaldwell-labs"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  TocOpen = false
+  defaultTheme = "auto"
+
+  [params.homeInfoParams]
+    Title = "jcaldwell-labs"
+    Content = "Technical documentation and articles on infrastructure, AI, and software engineering."
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/jcaldwell-labs"
+
+# Menus
+[menus]
+  [[menus.main]]
+    name = "Docs"
+    url = "/docs/"
+    weight = 10
+  [[menus.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 20
+  [[menus.main]]
+    name = "About"
+    url = "/about/"
+    weight = 30
+  [[menus.main]]
+    name = "Search"
+    url = "/search/"
+    weight = 40
+
+# Markup settings
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    noClasses = false
+    style = "monokai"
+
+# Outputs for search
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jcaldwell-labs.github.io/sitemap.xml
